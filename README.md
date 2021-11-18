@@ -1,4 +1,4 @@
-# beautify-veutify
+# vue-template
 
 ## Project setup
 ```
